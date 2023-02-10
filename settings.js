@@ -9,20 +9,20 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 //==============================\
 ///Gantien dewe sak karepmu..,
-global.pulsa = "6285973848018"
-global.gopay = "6285973848018"
-global.dana = "6285973848018"
+global.pulsa = "6287759937698"
+global.gopay = "6287759937698"
+global.dana = "6287759937698"
 global.packname = 'MiniZoya'
 global.footer = '©MiniZoya'
-global.ovo = "6285973848018"
+global.ovo = "6287759937698"
 global.ownerlen = "MiniZoya"//Ubah
-global.owner = ['6285973848018'] //ubh nomor owner hp
+global.owner = ['6287759937698'] //ubh nomor owner hp
 global.ownername = "MiniZoya" //ubah
 global.ytname = "YT: MiniZoya"//ubah
 global.socialm = "IG: MiniZoya"//ubah
 global.location = "Indonesia, Sumatera Selatan, Palembang"//ubah
-global.ownernomer = "6285973848018"//ubah nomorhp owner
-global.premium = ['6285973848018']//ubah nomor hp premium
+global.ownernomer = "6287759937698"//ubah nomorhp owner
+global.premium = ['6287759937698']//ubah nomor hp premium
 global.botname = 'BMiniZoyaV13' //ubah
 global.linkz = "https:"//ubah
 global.websitex = "yt mu"//ubah
@@ -63,11 +63,11 @@ global.thumb = fs.readFileSync("./Maslent/pplent/maslent.jpg")
 }
 global.limitAwal = {
  prem: 'Unlimited',
- free: 70
+ free: 1000
 }
 global.limitawal = {
     rakyat: "Infinity",
-    free: 100
+    free: 1000
 }
 global.rpg = {
    darahawal: 100,
